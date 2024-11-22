@@ -48,7 +48,10 @@ python main.py
 
 ## 📸 Screenshots
 
-![To-Do-list]()
+![To-Do-list](https://github.com/HimanshuChaudhery/To-Do-List/blob/main/To-Do-List.jpg)
 
 ---
 ## 💡 Future Improvements
+- User Authentication and Profile Management
+- Data Synchronization and Cloud Storage
+- Gamification and Motivational Features
