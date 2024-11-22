@@ -48,7 +48,7 @@ python main.py
 
 ## 📸 Screenshots
 
-![To-Do-list](https://github.com/HimanshuChaudhery/To-Do-List/blob/main/To-Do-List.jpg)
+![To-Do-list](./To-Do-List.jpg)
 
 ---
 ## 💡 Future Improvements
